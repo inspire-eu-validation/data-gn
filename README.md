@@ -7,6 +7,7 @@ The specification specifies the following conformance classes:
 | Conformance class | Standardization target |
 | ----------------- | ---------------------- |
 | [Portrayal, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-portrayal) | INSPIRE view service |
+| [Application Schema, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-as) | INSPIRE spatial data set |
 
 ## Approach
 
