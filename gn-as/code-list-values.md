@@ -101,11 +101,11 @@ Abbreviation                                               |  XPath expression
 ---------------------------------------------------------- | -------------------------------------------------------------------------
 NamedPlaceType (v3) <a name="NamedPlaceType3"></a>   | //schema-element(gn3:NamedPlace)@type
 NamedPlaceType (v4) <a name="NamedPlaceType4"></a>   | //schema-element(gn:NamedPlace)@type
-Nativeness (v3) <a name="Nativeness3"></a>   | //schema-element(gn3:name)/gn3:GeographicalName/gn3:nativeness/text()
-Nativeness (v4) <a name="Nativeness4"></a>   | //schema-element(gn3:name)/gn:GeographicalName/gn:nativeness/@xlink:href
-NameStatus (v3) <a name="NameStatus3"></a>   | //schema-element(gn3:name)/gn3:GeographicalName/gn3:nameStatus/text()
-NameStatus (v4) <a name="NameStatus4"></a>   | //schema-element(gn:name)/gn:GeographicalName/gn:nameStatus/@xlink:href
-Grammatical Gender (v3) <a name="GramGender3"></a>   | //schema-element(gn3:name)/gn3:GeographicalName/gn3:grammaticalGender/text()
-Grammatical Gender (v4) <a name="GramGender4"></a>   | //schema-element(gn:name)/gn:GeographicalName/gn:grammaticalGender/@xlink:href
-Grammatical Number (v3) <a name="GramNumber3"></a>   | //schema-element(gn3:name)/gn3:GeographicalName/gn3:grammaticalNumber/text()
-Grammatical Number (v4) <a name="GramNumber4"></a>   | //schema-element(gn:name)/gn:GeographicalName/gn:grammaticalNumber/@xlink:href
+Nativeness (v3) <a name="Nativeness3"></a>   | //schema-element(gn3:NamedPlace)/gn3:name/gn3:GeographicalName/gn3:nativeness/text()
+Nativeness (v4) <a name="Nativeness4"></a>   | //schema-element(gn:NamedPlace)/gn:name/gn:GeographicalName/gn:nativeness/@xlink:href
+NameStatus (v3) <a name="NameStatus3"></a>   | //schema-element(gn3:NamedPlace)/gn3:name/gn3:GeographicalName/gn3:nameStatus/text()
+NameStatus (v4) <a name="NameStatus4"></a>   | //schema-element(gn:NamedPlace)/gn:name/gn:GeographicalName/gn:nameStatus/@xlink:href
+Grammatical Gender (v3) <a name="GramGender3"></a>   | //schema-element(gn3:NamedPlace)/gn3:name/gn3:GeographicalName/gn3:grammaticalGender/text()
+Grammatical Gender (v4) <a name="GramGender4"></a>   | //schema-element(gn:NamedPlace)/gn:name/gn:GeographicalName/gn:grammaticalGender/@xlink:href
+Grammatical Number (v3) <a name="GramNumber3"></a>   | //schema-element(gn3:NamedPlace)/gn3:name/gn3:GeographicalName/gn3:grammaticalNumber/text()
+Grammatical Number (v4) <a name="GramNumber4"></a>   | //schema-element(gn:NamedPlace)/gn:name/gn:GeographicalName/gn:grammaticalNumber/@xlink:href
