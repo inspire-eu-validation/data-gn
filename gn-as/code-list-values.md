@@ -108,4 +108,4 @@ NameStatus (v4) <a name="NameStatus4"></a>   | //schema-element(gn:GeographicalN
 Grammatical Gender (v3) <a name="GramGender3"></a>   | //schema-element(gn3:GeographicalName)/gn3:grammaticalGender/text()
 Grammatical Gender (v4) <a name="GramGender4"></a>   | //schema-element(gn:GeographicalName)/gn:grammaticalGender/@xlink:href
 Grammatical Number (v3) <a name="GramNumber3"></a>   | //schema-element(gn3:GeographicalName)/gn3:grammaticalNumber/text()
-Grammatical Number (v3) <a name="GramNumber4"></a>   | //schema-element(gn:GeographicalName)/gn:grammaticalNumber/@xlink:href
+Grammatical Number (v4) <a name="GramNumber4"></a>   | //schema-element(gn:GeographicalName)/gn:grammaticalNumber/@xlink:href
