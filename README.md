@@ -9,6 +9,9 @@ The specification specifies the following conformance classes:
 | [GML application schemas, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-gml) | INSPIRE spatial data set encoded in GML, Geographical Names features |
 | [Portrayal, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-portrayal) | INSPIRE view service |
 | [Application Schema, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-as) | INSPIRE spatial data set |
+| [Reference Systems, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-rs) | INSPIRE spatial data set |
+| [Data Consistency, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-dc) | INSPIRE spatial data set |
+| [Information Accessibility, Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-ia) | INSPIRE spatial data set |
 
 ## Approach
 
