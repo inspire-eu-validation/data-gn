@@ -46,6 +46,7 @@ TG DS Template <a name="ref_TG_DS_tmpl"></a>   | [INSPIRE Data Specification Tem
 | Identifier                                                        | Status   | Test case in [TG DS-GN](#ref_TG_DS_GN)  |
 | ----------------------------------------------------------------- | -------- | ------------ |
 | [Code list values](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-as/code-list-values)  | Draft  | A.1.3 |
+| [Constraints](http://inspire.ec.europa.eu/id/ats/data-gn/3.1/gn-as/constraints)  | Draft  | A.1.6  |
 
 ## XML namespace prefixes <a name="namespaces"></a>
 
