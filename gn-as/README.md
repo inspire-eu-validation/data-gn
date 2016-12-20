@@ -6,6 +6,8 @@ To be able to test this conformance class, the encoding of the data set must be 
 
 This conformance class is part of the [Abstract Test Suite for the INSPIRE Data Specification on Geographical Names](http://inspire.ec.europa.eu/id/ats/data-gn/3.1).
 
+Assertions related to the data type GeographicalName, which is used in many feature types of other data themes, are not part of this Abstract Test Suite, but the Abstract Test Suite [Schemas](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/schemas).
+
 ## Standardization target type
 
 INSPIRE spatial data set

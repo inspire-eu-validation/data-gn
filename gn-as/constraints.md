@@ -14,12 +14,12 @@ For constraints that require retrieving a referenced resource and the resource c
 
 Automated tests:
 
-* At least one of the two attributes pronunciationSoundLink and pronunciationIPA shall not be void; OCL: "inv: self.pronounciationIPA -> notEmpty() or self.pronounciationSoundLink -> notEmpty()" Verify that for all features either or both [pronunciationSoundLink](#pronunciationSoundLink) or [pronunciationIPA](#pronunciationIPA) is not void.
+None. The only constraint related to the GeographicalName data type and this constraint is therefore part of the Abstract Test Suite [Schemas](http://inspire.ec.europa.eu/id/ats/data/3.0rc3/schemas).
 
 **Reference(s)**: 
 
 * [TG DS Template](http://inspire.ec.europa.eu/id/ats/data-gn/3.2/gn-as/README#ref_TG_DS_tmpl) IR requirement Article 4 (2)
-* [TG DS-PS](http://inspire.ec.europa.eu/id/ats/data-gn/3.2/gn-as/README#ref_TG_DS_PS)) 5.4
+* [TG DS-GN](http://inspire.ec.europa.eu/id/ats/data-gn/3.2/gn-as/README#ref_TG_DS_GN) 5.4
 
 **Test type**: Automated
 
@@ -34,7 +34,4 @@ brokenLink <a name="brokenLink"/>  |  XML document '$filename', $featureType '$g
 
 The namespace prefixes used as described in [README.md](http://inspire.ec.europa.eu/id/ats/data-gn/3.2/gn-as/README#namespaces).
 
-Abbreviation                                               |  XPath expression
----------------------------------------------------------- | -------------------------------------------------------------------------
-pronunciationSoundLink <a name="pronunciationSoundLink"></a> 	|  //schema-element(gn:NamedPlace)/gn:PronunciationOfName/gn:pronunciationSoundLink
-pronunciationIPA <a name="pronunciationIPA"></a> 	| 	//schema-element(gn:NamedPlace)/gn:PronunciationOfName/gn:pronunciationIPA
+n/a
